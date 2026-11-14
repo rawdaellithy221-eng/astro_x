@@ -1,0 +1,36 @@
+name: astrox
+description: "AstroX — orbital crew health self-check frontend."
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.13.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  flutter_bloc: ^9.1.1
+  equatable: ^2.0.7
+  fl_chart: ^1.1.1
+  flutter_svg: ^2.2.1
+  percent_indicator: ^4.2.5
+  flutter_animate: ^4.5.2
+  intl: ^0.20.2
+  drift: ^2.20.0
+  drift_flutter: ^0.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  build_runner: ^2.4.13
+  drift_dev: ^2.20.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/images/check_in/
+    - assets/icons/
+    - assets/illustrations/

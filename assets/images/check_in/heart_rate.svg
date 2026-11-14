@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <rect x="10" y="10" width="180" height="180" rx="20" fill="#10182E" stroke="#2EE6FF" stroke-opacity=".4"/>
+  <path d="M100 70 C80 50 50 70 50 95 C50 120 80 145 100 165 C120 145 150 120 150 95 C150 70 120 50 100 70 Z" fill="#15203C" stroke="#F87171" stroke-width="2"/>
+  <path d="M40 110 L70 110 L80 90 L90 130 L100 100 L110 120 L120 110 L160 110" stroke="#2EE6FF" stroke-width="3" fill="none"/>
+  <text x="100" y="185" text-anchor="middle" fill="#B8F8FC" font-size="12">Heart rate</text>
+</svg>

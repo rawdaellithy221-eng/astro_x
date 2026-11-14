@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <rect x="10" y="10" width="180" height="180" rx="20" fill="#10182E" stroke="#2EE6FF" stroke-opacity=".4"/>
+  <rect x="60" y="60" width="80" height="50" rx="10" fill="#15203C" stroke="#2EE6FF" stroke-width="2"/>
+  <path d="M70 85 h60" stroke="#2EE6FF" stroke-width="3"/>
+  <circle cx="100" cy="135" r="18" fill="#15203C" stroke="#34D399" stroke-width="2"/>
+  <text x="100" y="140" text-anchor="middle" fill="#34D399" font-size="14">BP</text>
+  <text x="100" y="175" text-anchor="middle" fill="#B8F8FC" font-size="12">Blood pressure</text>
+</svg>

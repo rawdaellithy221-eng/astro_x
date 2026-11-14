@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <rect x="10" y="10" width="180" height="180" rx="20" fill="#10182E" stroke="#2EE6FF" stroke-opacity=".4"/>
+  <rect x="88" y="30" width="24" height="110" rx="12" fill="#15203C" stroke="#2EE6FF" stroke-width="2"/>
+  <circle cx="100" cy="150" r="22" fill="#15203C" stroke="#FBBF24" stroke-width="2"/>
+  <rect x="94" y="50" width="12" height="70" rx="6" fill="#FBBF24"/>
+  <text x="100" y="185" text-anchor="middle" fill="#B8F8FC" font-size="12">Temperature</text>
+</svg>

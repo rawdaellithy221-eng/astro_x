@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <rect x="10" y="10" width="180" height="180" rx="20" fill="#10182E" stroke="#2EE6FF" stroke-opacity=".4"/>
+  <circle cx="70" cy="70" r="18" fill="#15203C" stroke="#34D399" stroke-width="2"/>
+  <path d="M60 70 L80 70 M70 60 L70 80" stroke="#34D399" stroke-width="3"/>
+  <rect x="110" y="55" width="50" height="40" rx="8" fill="#15203C" stroke="#FBBF24" stroke-width="2"/>
+  <path d="M120 75 h30" stroke="#FBBF24" stroke-width="2"/>
+  <path d="M50 130 C70 110 90 150 110 130 C130 110 150 150 170 130" stroke="#2EE6FF" stroke-width="3" fill="none"/>
+  <text x="100" y="185" text-anchor="middle" fill="#B8F8FC" font-size="12">Exercise & food</text>
+</svg>

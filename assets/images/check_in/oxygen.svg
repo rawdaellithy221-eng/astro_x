@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" fill="none">
+  <rect width="320" height="200" rx="18" fill="#101A34"/>
+  <path d="M42 137c19-13 37-19 57-18 17 1 28 8 39 14 11 6 20 9 34 7l31-5c9-1 17 3 19 10 2 8-4 14-13 16l-44 10c-19 4-36 2-52-5l-24-11-38 5-9-23Z" fill="#253457" stroke="#6D88C8" stroke-width="3" stroke-linejoin="round"/>
+  <path d="m44 139 14 23" stroke="#6D88C8" stroke-width="3" stroke-linecap="round"/>
+  <rect x="125" y="91" width="66" height="53" rx="11" fill="#20DDF4" stroke="#A4F4FC" stroke-width="3"/>
+  <rect x="135" y="101" width="46" height="26" rx="5" fill="#071020"/>
+  <text x="158" y="120" fill="#43E7F6" font-family="Arial,sans-serif" font-size="16" font-weight="700" text-anchor="middle">98%</text>
+  <path d="M149 134h18" stroke="#071020" stroke-width="3" stroke-linecap="round"/>
+  <path d="M206 72c8 11 12 20 12 29" stroke="#20DDF4" stroke-width="3" stroke-linecap="round" stroke-dasharray="5 6"/>
+  <circle cx="219" cy="107" r="5" fill="#20DDF4"/>
+  <path d="M239 63v30m-12-15h24" stroke="#43E7F6" stroke-width="3" stroke-linecap="round"/>
+  <text x="160" y="180" fill="#CAD5F0" font-family="Arial,sans-serif" font-size="12" text-anchor="middle">Fingertip pulse oximeter</text>
+</svg>

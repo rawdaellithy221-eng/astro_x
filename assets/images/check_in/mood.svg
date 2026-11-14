@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <rect x="10" y="10" width="180" height="180" rx="20" fill="#10182E" stroke="#2EE6FF" stroke-opacity=".4"/>
+  <circle cx="100" cy="90" r="40" fill="#15203C" stroke="#A78BFA" stroke-width="2"/>
+  <circle cx="85" cy="80" r="5" fill="#2EE6FF"/>
+  <circle cx="115" cy="80" r="5" fill="#2EE6FF"/>
+  <path d="M80 105 Q100 125 120 105" stroke="#34D399" stroke-width="3" fill="none"/>
+  <text x="100" y="165" text-anchor="middle" fill="#B8F8FC" font-size="12">Mood</text>
+</svg>
